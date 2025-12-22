@@ -84,53 +84,53 @@ translate English strings:
 
     # game/08.rpy:2391
     old "{size=28}マヤ{/size}"
-    new ""
+    new "Maya"
 
     # game/08.rpy:2400
     old "{size=28}シーキュレット{/size}"
-    new ""
+    new "Securett"
 
     # game/08.rpy:2409
     old "{size=28}ハク{/size}"
-    new ""
+    new "Haku"
 
     # game/08.rpy:2418
     old "{size=28}アルネ{/size}"
-    new ""
+    new "Arne"
 
     # game/08.rpy:2427
     old "{size=28}エノク{/size}"
-    new ""
+    new "Enoch"
 
     # game/08.rpy:2436
     old "{size=28}エルジェーベト{/size}"
-    new ""
+    new "Erzsebet"
 
     # game/08.rpy:2451
     old "{size=28}ラヴィアン{/size}"
-    new ""
+    new "Lavieen"
 
     # game/08.rpy:2460
     old "{size=28}ローズ{/size}"
-    new ""
+    new "Rose"
 
     # game/08.rpy:2469
     old "{size=28}イヴリン{/size}"
-    new ""
+    new "Evelynn"
 
     # game/08.rpy:2478
     old "{size=28}グレーテ{/size}"
-    new ""
+    new "Grette"
 
     # game/08.rpy:2487
     old "{size=28}グレゴール{/size}"
-    new ""
+    new "Gregor"
 
     # game/08.rpy:2496
     old "{size=28}クリオネ{/size}"
-    new ""
+    new "Clione"
 
     # game/08.rpy:2504
     old "{size=28}[persistent.na]{/size}"
-    new ""
+    new "{size=28}[persistent.na]{/size}"
 
