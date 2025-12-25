@@ -2,6 +2,30 @@
 
 translate English strings:
 
+    old "何をしよう？"
+    new "What should I do?"
+
+    old "{font=amii.otf}熱の月 1日    朝{/font}"
+    new "1st Day of the Heatmoon    Morning"
+
+    old "{font=amii.otf}熱の月 2日    朝{/font}"
+    new "2nd Day of the Heatmoon    Morning"
+
+    old "{font=amii.otf}熱の月 3日    朝{/font}"
+    new "3rd Day of the Heatmoon    Morning"
+
+    old "{font=amii.otf}熱の月 4日    朝{/font}"
+    new "4th Day of the Heatmoon    Morning"
+
+    old "{font=amii.otf}熱の月 5日    朝{/font}"
+    new "5th Day of the Heatmoon    Morning"
+
+    old "{font=amii.otf}熱の月 6日    朝{/font}"
+    new "6th Day of the Heatmoon    Morning"
+
+    old "{font=amii.otf}熱の月 7日    朝{/font}"
+    new "7th Day of the Heatmoon    Morning"
+
     # game/07.rpy:194
     old "{size=28}仕事へ向かう{/size}"
     new "{size=28}Go to work{/size}"
