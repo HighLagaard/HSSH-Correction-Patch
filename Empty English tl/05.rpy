@@ -4,5 +4,5 @@ translate English strings:
 
     # game/05.rpy:22
     old "Happy Saint Sheol"
-    new ""
+    new "Happy Saint Sheol"
 
