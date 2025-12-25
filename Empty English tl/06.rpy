@@ -1,96 +1,148 @@
-﻿# TODO: Translation updated at 2025-12-21 21:52
 
-# game/06.rpy:93
+
+
 translate English placemenu_76b2fe88:
 
-    # nvl clear
+
     nvl clear
 
-# game/06.rpy:110
+
 translate English placemenu_7c6cb1cf:
 
-    # et "\nさて…{w}どこへ行こうか？"
-    et ""
 
-# game/06.rpy:113
+    et "\nNow then...{w} Where should I go?"
+
+
 translate English placemenu_76b2fe88_1:
 
-    # nvl clear
+
     nvl clear
 
-# game/06.rpy:187
+
 translate English time_out_5c6418ee:
 
-    # nar "…そそろそろ戻る時間だ。"
-    nar ""
 
-# game/06.rpy:189
+    nar "...I should be getting back."
+
+
 translate English time_out_5c359685:
 
-    # nar "…そろそろ暗くなる時間だ。"
-    nar ""
 
-# game/06.rpy:190
+    nar "...After all, it's starting to get dark."
+
+
 translate English time_out_a4b83208:
 
-    # nar "あと一か所済ませて部屋に戻らないとそろそろマズいな。"
-    nar ""
+
+    nar "I can visit one more place, but then I'll have to return to the dorms."
 
 translate English strings:
 
-    # game/06.rpy:341
+
+    old "どこに向かう？"
+    new "Where should I go?"
+
+
+    old "{font=amii.otf}熱の月 1日    昼{/font}"
+    new "1st Day of the Heatmoon    Afternoon"
+
+
+    old "{font=amii.otf}熱の月 1日    夜{/font}"
+    new "1st Day of the Heatmoon    Night"
+
+
+    old "{font=amii.otf}熱の月 5日    夜{/font}"
+    new "5th Day of the Heatmoon    Night"
+
+
+    old "{font=amii.otf}熱の月 8日    夜{/font}"
+    new "8th Day of the Heatmoon    Night"
+
+
+    old "{font=amii.otf}熱の月 ？？日    夜{/font}"
+    new "?? Day of the Heatmoon    Night"
+
+
+    old "{font=amii.otf}熱の月 7日    夜{/font}"
+    new "7th Day of the Heatmoon    Night"
+
+
+    old "{font=amii.otf}熱の月 12日    夜{/font}"
+    new "12th Day of the Heatmoon    Night"
+
+
+    old "{font=amii.otf}熱の月 2日    夕{/font}"
+    new "2nd Day of the Heatmoon    Evening"
+
+
+    old "{font=amii.otf}熱の月 2日    昼{/font}"
+    new "2nd Day of the Heatmoon    Afternoon"
+
+
+    old "{font=amii.otf}熱の月 3日    夕{/font}"
+    new "3rd Day of the Heatmoon    Evening"
+
+
+    old "{font=amii.otf}熱の月 3日    昼{/font}"
+    new "3rd Day of the Heatmoon    Afternoon"
+
+
+    old "{font=amii.otf}熱の月 4日    夕{/font}"
+    new "4th Day of the Heatmoon    Evening"
+
+
+    old "{font=amii.otf}熱の月 4日    昼{/font}"
+    new "4th Day of the Heatmoon    Afternoon"
+
+
+    old "{font=amii.otf}熱の月 5日    夕{/font}"
+    new "5th Day of the Heatmoon    Evening"
+
+
+    old "{font=amii.otf}熱の月 5日    昼{/font}"
+    new "5th Day of the Heatmoon    Afternoon"
+
+
+    old "{font=amii.otf}熱の月 6日    昼{/font}"
+    new "6th Day of the Heatmoon    Afternoon"
+
+
+    old "{font=amii.otf}熱の月 8日    夕{/font}"
+    new "8th Day of the Heatmoon    Evening"
+
+
+    old "{font=amii.otf}熱の月 8日    昼{/font}"
+    new "8th Day of the Heatmoon    Afternoon"
+
+
     old "{size=28}花壇{/size}"
-    new ""
+    new "{size=28}Flower Garden{/size}"
 
-    # game/06.rpy:347
+
     old "{size=28}作業場{/size}"
-    new ""
+    new "{size=28}Workplace{/size}"
 
-    # game/06.rpy:353
+
     old "{size=28}医務室{/size}"
-    new ""
+    new "{size=28}Infirmary{/size}"
 
-    # game/06.rpy:378
+
     old "{size=28}？？？{/size}"
-    new ""
+    new "{size=28}???{/size}"
 
-    # game/06.rpy:403
+
     old "{size=28}図書館{/size}"
-    new ""
+    new "{size=28}Library{/size}"
 
-    # game/06.rpy:427
+
     old "{size=28}野外礼拝堂{/size}"
-    new ""
+    new "{size=28}Outdoor Chapel{/size}"
 
-    # game/06.rpy:561
+
     old "{size=28}訓練場{/size}"
-    new ""
+    new "{size=28}Training Grounds{/size}"
 
-    # game/06.rpy:638
+
     old "{size=28}階段{/size}"
-    new ""
-
-    # game/06.rpy:966
-    old "花壇"
-    new ""
-
-    # game/06.rpy:974
-    old "訓練場"
-    new ""
-
-    # game/06.rpy:975
-    old "作業場"
-    new ""
-
-    # game/06.rpy:976
-    old "医務室"
-    new ""
-
-    # game/06.rpy:977
-    old "図書館"
-    new ""
-
-    # game/06.rpy:978
-    old "階段"
-    new ""
-
+    new "{size=28}Stairs{/size}"
+return
