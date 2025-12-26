@@ -4,7 +4,7 @@
 translate English prr_name_34de157f:
 
     # am "\n※貴方の行う選択にはそれ相応の責任と云う物が付く事になるでしょう。{w}\n貴方に、その煩悩と艱苦を耐え抜く覚悟はありますか?"
-    am ""
+    am "\nEvery decision we make comes with corresponding consequences. {w}\nAre you prepared to deal with the potential pain and suffering you'll bring upon yourself should you choose wrong?"
 
 # game/10.rpy:163
 translate English prr_name_96ba9f4a:
@@ -34,7 +34,7 @@ translate English prr_name_76b2fe88_1:
 translate English prr_name_9577bca0:
 
     # et "\n※[na]で宜しいですか?"
-    et ""
+    et "\n{size=26}Is [na] your name?{/size}"
 
 # game/10.rpy:179
 translate English prr_name_96ba9f4a_2:
@@ -690,17 +690,17 @@ translate English strings:
 
     # game/10.rpy:166
     old "{font=KH-Dot-Dougenzaka-16.ttf}はい{/font}"
-    new ""
+    new "Yes."
 
     # game/10.rpy:172
     old "{font=KH-Dot-Dougenzaka-16.ttf}いいえ{/font}"
-    new ""
+    new "No."
 
     # game/10.rpy:440
     old "そうだ"
-    new ""
+    new "Yep."
 
     # game/10.rpy:443
     old "ちょっと違う"
-    new ""
+    new "Maybe not..."
 
